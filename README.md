@@ -1,3 +1,3 @@
 # Mircoeconomics-Final-Projects
 
-Work done by Sarah Mejia 2021
+Work by Sarah Mejia for ECON 306 2021
